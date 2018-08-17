@@ -1,4 +1,14 @@
-:recover# 100 Days Of Code - Log
+100 Days Of Code - Log
+
+### Day 3: August 16, 2018
+
+**Today's Progress**: Today I created a utilities class to help request data from the guardian api and parse it for use in my news app. 
+
+**Thoughts:** I thought I had created each of my project files carefully, but I am getting an error that is not very easy to understand. My current error occurs when I try to build the app and says something about "ArticleLoader is not abstract and does not override abstract method loadInBackground() in AsyncTaskLoader". I will need to fix this tomorrow. 
+
+**Link to work:** [Tech News App](https://github.com/thehme/TechNewsApp)
+
+
 
 ### Day 2: August 15, 2018
 
