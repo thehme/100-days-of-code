@@ -1,5 +1,15 @@
 100 Days Of Code - Log
 
+### Day 4: August 17, 2018
+
+**Today's Progress**: Today I was able to parse the JSON reponse from my API request to the Guardian API. I also learned to format a String date and how to show HTML in a TextView for my Android project. I also started to look into adding a menu using a menu resource file.  
+
+**Thoughts:** It took me some time to format the String date, which was in UTC format. Apparently you need to parse the string in its source format pattern and then also parse it again to the format you want to format it in. I also had an issue when displaying text in the TextView because it was HTML, so I looked up how to show HTML and found that I could HTML.fromHTML and it worked ok. I still have some issues with how it is displayed, but I think it works ok for now. 
+
+**Link to work:** [Tech News App](https://github.com/thehme/TechNewsApp)
+
+
+
 ### Day 3: August 16, 2018
 
 **Today's Progress**: Today I created a utilities class to help request data from the guardian api and parse it for use in my news app. I also added the Article Loader class and the implementation of the LoaderManager callback methods.  
