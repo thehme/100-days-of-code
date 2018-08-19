@@ -1,5 +1,15 @@
 100 Days Of Code - Log
 
+### Day 5: August 18, 2018
+
+**Today's Progress**: I finished learning about parsing a JSON response and properly displaying data into my android app. I then implemented a menu widget to allow the user to set preferences, which I use in the URL to make HTTP request and fetch the appropriate data.
+
+**Thoughts:** There is lots to learn about parsing a JSON response and properly displaying data into an android app. It's pretty cool Android also provides these menu widgets to allow the user to set preferences within an app, which can then be used to update the URL via a query string. A lot of moving parts, but makes the app more interactive.  
+
+**Link to work:** [Tech News App](https://github.com/thehme/TechNewsApp)
+
+
+
 ### Day 4: August 17, 2018
 
 **Today's Progress**: Today I was able to parse the JSON reponse from my API request to the Guardian API. I also learned to format a String date and how to show HTML in a TextView for my Android project. I also started to look into adding a menu using a menu resource file.  
