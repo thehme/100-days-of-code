@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 6: August 19, 2018
+
+**Today's Progress**: Today I spent time looking into how adding a settings menu works when using the PreferenceScreen and settings activity with a fragment. I added some of the files that will allow me to add different options for creating the query string to fetch articles from the API.
+
+**Thoughts**: I was expecting to have something displayed, event if not completely working, but I got stuck. I am not quite sure what the connections are yet, so I need to review these concepts a bit more.
+
+**Link to work:** [Tech News App](https://github.com/thehme/TechNewsApp)
+
 ### Day 5: August 18, 2018
 
 **Today's Progress**: I finished learning about parsing a JSON response and properly displaying data into my android app. I then implemented a menu widget to allow the user to set preferences, which I use in the URL to make HTTP request and fetch the appropriate data.
