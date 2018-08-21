@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 7: August 20, 2018
+
+**Today's Progress**: Today I reverted all my preferences changes from yesterday because something was not working properly. I attempted to add the plain preferences page and once that worked, I implemented a radio button categories options pane. I then used this to build the query string to make my API request for the article objects needed for my news articles app. All is working and then spent time trying to figure out what a date picket preference would work like, but I would not get it to work.
+
+**Thoughts**: The preferences widget is a bit involved, a simple mistyped key will break the simplest of implementations. If I were to do this over, I would always start with getting the preferences widget to first load without any options at all. Then only work on one widget and confirm the string value is retreivable, usable, and displayed in the option within the preferences.
+
 ### Day 6: August 19, 2018
 
 **Today's Progress**: Today I spent time looking into how adding a settings menu works when using the PreferenceScreen and settings activity with a fragment. I added some of the files that will allow me to add different options for creating the query string to fetch articles from the API.
