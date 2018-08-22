@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 8: August 21, 2018
+
+**Today's Progress**: found a good implementation of a custom Preferences class, but it was more than I can fully grasp at the moment, so I looked into other options. I found that there is a date dialog that I can probably display when clickin on an EditText field, so I will try this tomorrow.
+
+**Thoughts**: I suppose it is expected that there are many ways to do one thing, but I find the documentation very dense and the google search results too old. In one case, I saw getYear and then read tthat it was deprecated, so this does not help. It would be nice if the examples in the documentation was clearer and end to end.  
+
+**Link to work**: [Tech News App](https://github.com/thehme/TechNewsApp)
+
 ### Day 7: August 20, 2018
 
 **Today's Progress**: Today I reverted all my preferences changes from yesterday because something was not working properly. I attempted to add the plain preferences page and once that worked, I implemented a radio button categories options pane. I then used this to build the query string to make my API request for the article objects needed for my news articles app. All is working and then spent time trying to figure out what a date picket preference would work like, but I would not get it to work.
