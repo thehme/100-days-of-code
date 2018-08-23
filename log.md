@@ -6,6 +6,8 @@
 
 **Thoughts**: I still think the Android documentation is too dense, but I also just started to read it fore my projects, so maybe I need to get used to they format and style. I saved my work for the custom Preference classes that extend Date dialog and Date picker separately, so maybe I can pick up on this next time. For now, I needed to meet a deadline and so I need to move on, if I can.
 
+**Link to work**: [Tech News App](https://github.com/thehme/TechNewsApp)
+
 ### Day 8: August 21, 2018
 
 **Today's Progress**: found a good implementation of a custom Preferences class, but it was more than I can fully grasp at the moment, so I looked into other options. I found that there is a date dialog that I can probably display when clickin on an EditText field, so I will try this tomorrow.
