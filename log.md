@@ -1,5 +1,35 @@
 100 Days Of Code - Log
 
+### Day 14: August 27, 2018
+
+**Today's Progress**: I setup a sample app called pets into my local app called https://github.com/thehme/PetsShelterApp and debugged the gradle issues and got it up and running. I also continues to learn about SQLite, specifically about contracts.
+
+**Thoughts**: I am looking forward to adding what I am learning on my own project.
+
+### Day 13: August 27, 2018
+
+**Today's Progress**: Today I finished the 3rd video on using the terminal to work with GitHub and was able to complete publishing the videos. Videos can be found at https://www.youtube.com/channel/UCwxhcoHOmhD_2lXnTmD6Q5A?view_as=subscriber
+
+**Thoughts**: Videos were recorded at convenient times, some in the morning, some at night, and it was hardest at night. The video for this day was actually published after midnight so on the morning of Aug. 28. 
+
+### Day 12: August 26, 2018
+
+**Today's Progress**: I promised I'd create a few videos on using the GitHub desktop app, most commonly used terminal commands, and using the terminal to work with GitHub. On this day a recorded 2 and finished editing one. https://www.youtube.com/channel/UCwxhcoHOmhD_2lXnTmD6Q5A?view_as=subscriber
+
+**Thoughts**: Recording videos, specially for tutoring/teaching, is not that easy.
+
+### Day 11: August 25, 2018
+
+**Today's Progress**: Again, I spent the day playing around with SQLite in my terminal in preparation for project that requires db.
+
+**Thoughts**: Practicing SQL commands and writing them down helps to familiarize yourself better with the language and have better expextations.
+
+### Day 10: August 23, 2018
+
+**Today's Progress**: I will need to create a database so this day was to play with SQLite in the terminal.
+
+**Thoughts**: You have to be very precise with the SQLite command and very careful with the DELETE command.
+
 ### Day 9: August 22, 2018
 
 **Today's Progress**: My goal was to get the user to be able to enter a date that I could use to make an API request for some articles on this date. At first I thought it would be great to use a calendar or date dialog, but neither solution was attainable in the time frame I have. Therefore, today I saved my work on those options and solved my issue by implementing a date type EditText view for now. I am able to enter a date, assummed to be correctly formatter, and I am able to make the HTTP request to the API and get articles I need for the single date. In the next version, I would like to implement my own custom Preference.
