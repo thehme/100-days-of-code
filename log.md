@@ -1,6 +1,10 @@
 100 Days Of Code - Log
 
-### Day 14: August 27, 2018
+### Day 15: August 29, 2018
+
+**Today's Progress**: I implemented my apps schema contract and started to work on the pet db reader class - https://github.com/thehme/PetsShelterApp/tree/starting-point 
+
+### Day 14: August 28, 2018
 
 **Today's Progress**: I setup a sample app called pets into my local app called https://github.com/thehme/PetsShelterApp and debugged the gradle issues and got it up and running. I also continues to learn about SQLite, specifically about contracts.
 
