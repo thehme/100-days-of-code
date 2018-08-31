@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 16: August 30, 2018
+
+**Today's Progress**: Today I implemented the db helper for my app and added a method to add dummy date to the db.
+
+**Today's Progress**: Using the ContentValues in Android allows one to avoid typos when inserting data into a db. One should use contants to build the CREATE db method.
+
 ### Day 15: August 29, 2018
 
 **Today's Progress**: I implemented my apps schema contract and started to work on the pet db reader class - https://github.com/thehme/PetsShelterApp/tree/starting-point 
