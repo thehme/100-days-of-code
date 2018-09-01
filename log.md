@@ -1,10 +1,16 @@
 100 Days Of Code - Log
 
+### Day 17: August 31, 2018
+
+**Today's Progress**: Attempted to get db insert to work when input is entered by user on app.
+
+**Thoughts:** I didn't have much luck with the insert method, need to debug something that is causing my app to crash on insert.
+
 ### Day 16: August 30, 2018
 
 **Today's Progress**: Today I implemented the db helper for my app and added a method to add dummy date to the db.
 
-**Today's Progress**: Using the ContentValues in Android allows one to avoid typos when inserting data into a db. One should use contants to build the CREATE db method.
+**Thoughts**: Using the ContentValues in Android allows one to avoid typos when inserting data into a db. One should use contants to build the CREATE db method.
 
 ### Day 15: August 29, 2018
 
