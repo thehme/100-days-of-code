@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 18: September 1, 2018
+
+**Today's Progress**: Today I learned how to insert date into an SQLite db using a cursor and how to read data from the cursor to display in a text view - https://github.com/thehme/PetsShelterApp/tree/starting-point. I also started a new project, which I have saved at - https://github.com/thehme/StoreInventoryApp
+
+**Thoughts:** I now know about the C and R in CRUD, so I still need to learn how to update data or delete data from a db in SQLite, bu tfirst, I need to implement adding and reading data from my new app.
+
 ### Day 17: August 31, 2018
 
 **Today's Progress**: Attempted to get db insert to work when input is entered by user on app.
