@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 19: September 2, 2018
+
+**Today's Progress**: Today I create the db contract for my inventory app as well as the inventory db helper class. I did not test it yet, but will do tomorrow.
+
+**Thoughts:** I have not created a db contract with floats before, but I think that price of a product should be a float or double. I will have to figure this out once I want to print data to the UI.
+
 ### Day 18: September 1, 2018
 
 **Today's Progress**: Today I learned how to insert date into an SQLite db using a cursor and how to read data from the cursor to display in a text view - https://github.com/thehme/PetsShelterApp/tree/starting-point. I also started a new project, which I have saved at - https://github.com/thehme/StoreInventoryApp
