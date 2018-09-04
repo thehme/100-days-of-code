@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 20: September 3, 2018
+
+**Today's Progress**: I am working on my new app and today a tried to create the INSERT method for my db. I have some issues and was not able to get dummy data saved to the db, so I will need to continue trouble shooting this tomorrow.
+
+**Thoughts:** It seems like the INSERT sql string needs to be exact to work well and right now something seems to be wrong with my inivital attempt.
+
 ### Day 19: September 2, 2018
 
 **Today's Progress**: Today I create the db contract for my inventory app as well as the inventory db helper class. I did not test it yet, but will do tomorrow.
