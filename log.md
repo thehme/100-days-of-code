@@ -4,6 +4,8 @@
 
 **Today's Progress**: Today I implemented a method to read from my app's db using a cursor. I used the cursor's data to display it in a text view and confirm that the dummy data I was inserting into the db was correct.
 
+https://github.com/thehme/StoreInventoryApp
+
 **Thoughts**: I learned that prices should be stored in integers and formatted later for display to avoid rounding errors. I convered an integer into a double and then used a formatter to converte it to String with a two decimal precious. 
 
 ### Day 20: September 3, 2018
