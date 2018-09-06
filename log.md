@@ -1,5 +1,9 @@
 100 Days Of Code - Log
 
+### Day 22: September 3, 2018
+
+**Today's Progress**: Started to learn about content providers to add a layer between the db and my app's activity to validate data before it is stored in the db. 
+
 ### Day 21: September 3, 2018
 
 **Today's Progress**: Today I implemented a method to read from my app's db using a cursor. I used the cursor's data to display it in a text view and confirm that the dummy data I was inserting into the db was correct.
