@@ -1,10 +1,18 @@
 100 Days Of Code - Log
 
-### Day 22: September 3, 2018
+### Day 23: September 6, 2018
+
+**Today's Progress**: Learning about content providers and added first content provider. 
+
+ https://github.com/thehme/StoreInventoryApp
+
+**Thoughts:** I like that content providers not only add an abstraction layer between the db and the UI code, but the the updating of the UI is automatically done by the content provider when a db change occurs.
+
+### Day 22: September 5, 2018
 
 **Today's Progress**: Started to learn about content providers to add a layer between the db and my app's activity to validate data before it is stored in the db. 
 
-### Day 21: September 3, 2018
+### Day 21: September 4, 2018
 
 **Today's Progress**: Today I implemented a method to read from my app's db using a cursor. I used the cursor's data to display it in a text view and confirm that the dummy data I was inserting into the db was correct.
 
