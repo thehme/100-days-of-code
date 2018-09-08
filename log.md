@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 24: September 7, 2018
+
+**Today's Progress**: Added content provider to app and started adding contacts that will be used to communicate with the content provider.
+
+**Thoughts**: Learning about URi's and currently seems pretty complex, but hopefully I will figure out.
+
 ### Day 23: September 6, 2018
 
 **Today's Progress**: Learning about content providers and added first content provider. 
