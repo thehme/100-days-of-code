@@ -1,5 +1,17 @@
 100 Days Of Code - Log
 
+### Day 26: September 9, 2018
+
+**Today's Progress**: Today I implemented a cursor adapter and populated the ListView with the cursor's data.
+
+**Thoughts**: Defining the newView and bindView methods for the cursor adapter was really easy and replacing all the lines of code that were needed to populate a text view with the code to populate a ListView was nice too.
+
+### Day 25: September 8, 2018
+
+**Today's Progress**: Today I finished implementing a content provider and defined the delete and update methods; insert and read methods had already been done before.  
+
+**Thoughts**: I find it really interesting to have this new design pattern. Initially I was updating the db directly, but the content provider allows for an indirect way to interact with the db that allows input validation and helps avoid type errors.
+
 ### Day 24: September 7, 2018
 
 **Today's Progress**: Added content provider to app and started adding contacts that will be used to communicate with the content provider.
