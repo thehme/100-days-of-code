@@ -4,6 +4,8 @@
 
 **Today's Progress**: Today I implemented a cursor adapter and populated the ListView with the cursor's data.
 
+https://github.com/thehme/PetsShelterApp
+
 **Thoughts**: Defining the newView and bindView methods for the cursor adapter was really easy and replacing all the lines of code that were needed to populate a text view with the code to populate a ListView was nice too.
 
 ### Day 25: September 8, 2018
