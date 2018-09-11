@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 27: September 10, 2018
+
+**Today's Progress**: Today I implemented a cursor loader to load cursor data into ListView, also added an empty view to display when no data is available, added notifications, added cursor notifications to content provider to alert the main activity when a db change has occurred and the UI needs to be updated, and started to work on making my current add item view into an edit item view.
+
+**Thoughts:** Lost happening today, but it has been nice to see everything come together. I specially liked being able to create a CursorAdapter, similar to a previous ArrayAdapter I created. The only this is that I noticed that CursorLoader may have been discontinues after API 28, so I probably have to learn how to do this diffently - https://developer.android.com/reference/android/content/CursorLoader
+
+https://github.com/thehme/PetsShelterApp
+
 ### Day 26: September 9, 2018
 
 **Today's Progress**: Today I implemented a cursor adapter and populated the ListView with the cursor's data.
