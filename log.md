@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 28: September 11, 2018
+
+**Today's Progress**: Today I implemented rendering the current URi's data into a view, which will later be the view in which you can edit the data.
+
+**Thoughts**: I had to be careful with setting the text of an input field when the value is an integer, but a string is expected. Also, i had issues figuring our the uri value, I thought I had to build it, but then realized this is defined in the onCreate method when the data item is selected from the list and this triggers the intent to be called.
+
 ### Day 27: September 10, 2018
 
 **Today's Progress**: Today I implemented a cursor loader to load cursor data into ListView, also added an empty view to display when no data is available, added notifications, added cursor notifications to content provider to alert the main activity when a db change has occurred and the UI needs to be updated, and started to work on making my current add item view into an edit item view.
