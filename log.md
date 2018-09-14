@@ -1,5 +1,23 @@
 100 Days Of Code - Log
 
+### Day 30: September 13, 2018
+
+**Today's Progress**: I started to work on my store inventory app again. Today I started work on the cursor adaptor I need to retreive data from the db using the contenct provider.
+
+**Thoughts": I feel like I know how to do this project, but I am only at the start.
+
+https://github.com/thehme/StoreInventoryApp
+
+### Day 29: September 12, 2018
+
+**Today's Progress**: I spend fixing some issues with my app, first it was crashing due to an error that was not very clear:
+
+java.lang.RuntimeException: An error occurred while executing doInBackground()
+
+I was not using AsyncTask, so it was very weird. It turned out to be related to where in my code I was calling invalidateOptionsMenu().
+
+**Thoughts**: I wish the Android errors gave better guidance as to how to solve the issues.
+
 ### Day 28: September 11, 2018
 
 **Today's Progress**: Today I implemented rendering the current URi's data into a view, which will later be the view in which you can edit the data.
