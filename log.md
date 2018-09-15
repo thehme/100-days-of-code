@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 31: September 14, 2018
+
+**Today's Progress**: continued to work on my app, today I started to implement the cursor adapter.
+
+**Thoughts**: I think I should have ran my update more ofter to see if it still works. I will check tomorrow when I have more brain enegy.
+
+https://github.com/thehme/StoreInventoryApp
+
 ### Day 30: September 13, 2018
 
 **Today's Progress**: I started to work on my store inventory app again. Today I started work on the cursor adaptor I need to retreive data from the db using the contenct provider.
