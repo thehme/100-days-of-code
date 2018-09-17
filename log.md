@@ -1,6 +1,6 @@
 100 Days Of Code - Log
 
-### Day 32: September 16, 2018
+### Day 33: September 16, 2018
 
 **Today's Progress**: Merge my fix to the cursor provider today. I started to work on my curser adapter and got everything setup, but I encountered a new error today. The error says "java.lang.NullPointerException: Attempt to invoke virtual method 'android.database.Cursor com.example.android.storeinventoryapp.InventoryCursorAdaptor.swapCursor(android.database.Cursor)' on a null object reference". It seems similar to yesterday's error, so I need to spend some time debugging it again.
 
