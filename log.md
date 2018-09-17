@@ -1,5 +1,21 @@
 100 Days Of Code - Log
 
+### Day 32: September 16, 2018
+
+**Today's Progress**: Merge my fix to the cursor provider today. I started to work on my curser adapter and got everything setup, but I encountered a new error today. The error says "java.lang.NullPointerException: Attempt to invoke virtual method 'android.database.Cursor com.example.android.storeinventoryapp.InventoryCursorAdaptor.swapCursor(android.database.Cursor)' on a null object reference". It seems similar to yesterday's error, so I need to spend some time debugging it again.
+
+https://github.com/thehme/StoreInventoryApp/tree/bc-cursor-loader
+
+**Thoughts**: I wanted to fix my code yesterday, so even though I traveled to NYC to Childrish Gambino's concert, I still took my laptop and coded all the day there. I am proud of my self for having worke on my code on  my way to a concert!
+
+### Day 32: September 15, 2018
+
+**Today's Progress**: I encountered an issue with my cursor provider implementation and kept getting an error about "Attempt to invoke interface method 'void android.database.Cursor.close()' on a null object reference". I had spent a lot of time, deconstructing my code, but I finally figured out that my query implementation was not returning the cursor. 
+
+https://github.com/thehme/StoreInventoryApp/tree/master
+
+**Thoughs**: It took me little bits of time throughout two days to figure this out and now I feel much better knowing my work was correct, but that I had left the return unchanged after auto inserting the methods.
+
 ### Day 31: September 14, 2018
 
 **Today's Progress**: continued to work on my app, today I started to implement the cursor adapter.
