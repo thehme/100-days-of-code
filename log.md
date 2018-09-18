@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 34: September 17, 2018
+
+**Today's Progress**: I re-implemented the cursor adapter and got rid of the error from yesterday. I also implemented the insert method and enabled notifications, so when I add dummy date, it is refreshed in the UI.
+
+**Thoughts**: I couldn't find any obvious differences in my new implementation of the cursor adapter today and the one from yesterday. The only thing I noticed that was different was that in the working code, I had "import android.net.Uri", but in the non-working code I had "import java.net.URI" and I am not sure why. I did not confirm this, but it is something I can look back at, if I see the same error.
+
 ### Day 33: September 16, 2018
 
 **Today's Progress**: Merge my fix to the cursor provider today. I started to work on my curser adapter and got everything setup, but I encountered a new error today. The error says "java.lang.NullPointerException: Attempt to invoke virtual method 'android.database.Cursor com.example.android.storeinventoryapp.InventoryCursorAdaptor.swapCursor(android.database.Cursor)' on a null object reference". It seems similar to yesterday's error, so I need to spend some time debugging it again.
