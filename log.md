@@ -1,5 +1,12 @@
 100 Days Of Code - Log
 
+### Day 35: September 18, 2018
+
+**Today's Progress**: I finished setting up the activity for what will be the editor of items in my inventory app.
+
+**Thoughts**: I am having an issue with an icon, so tomorrow I will see if the floating icon is causing the app to crash because of the scr attribute setting or the files I imported.
+
+
 ### Day 34: September 17, 2018
 
 **Today's Progress**: I re-implemented the cursor adapter and got rid of the error from yesterday. I also implemented the insert method and enabled notifications, so when I add dummy date, it is refreshed in the UI.
