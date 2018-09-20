@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 36: September 19, 2018
+
+**Today's Progress**: Today I added an activity to my app, which I will use to allow the use to edit data or add new data. I also added a floating button, which takes the user to the editor activity when it is clicker. Tomorrow I want to implement the insert method for the editor.
+
+**Thoughts**: I realized I don't feel to comfortable with the layout. I tried to add a different layout which containts a button, but it does not look properly, so I need to look more into this.
+
 ### Day 35: September 18, 2018
 
 **Today's Progress**: I finished setting up the activity for what will be the editor of items in my inventory app.
