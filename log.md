@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 37: September 20, 2018
+
+**Today's Progress**: Today I worked on changing the layout of my app's items, so that there can be a button for each item in the view. I also added an options menu, which I will use to save or delete data to the db.
+
+**Thoughts**: I also started to work on setting up the spinner with options for the book continue, e.g. new, but having an issue, so will have to look into this tomorrow
+
 ### Day 36: September 19, 2018
 
 **Today's Progress**: Today I added an activity to my app, which I will use to allow the use to edit data or add new data. I also added a floating button, which takes the user to the editor activity when it is clicker. Tomorrow I want to implement the insert method for the editor.
