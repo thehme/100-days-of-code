@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 38: September 21, 2018
+
+**Today's Progress**: Today I defined the spinner layout and logic to setup the options for book conditio.
+
+**Thoughts**: I decided to save the book price as a total in cents, so now I have to make sure I retreive the price from the UI, which will be a decimal number and use that to calcualte the total price in cents. 
+
+https://github.com/thehme/storeInventoryApp
+
 ### Day 37: September 20, 2018
 
 **Today's Progress**: Today I worked on changing the layout of my app's items, so that there can be a button for each item in the view. I also added an options menu, which I will use to save or delete data to the db.
