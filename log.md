@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 40: September 23, 2018
+
+**Today's Progress**: Today I had little time to code, but I started to look into adding logic to my sale button. I realize I needed an onClick button, so this is my next step.
+
+**Thoughts**: I tried to setup the on click button, but then noticed that I needed to have context of what view in the list was being clicked. I need to figure this out and see if it is any different then when I worked with fragments.
+
 ### Day 39: September 22, 2018
 
 **Today's Progress**: Finished logic for insert method after removing the spinner for book condition.
