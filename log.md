@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 39: September 22, 2018
+
+**Today's Progress**: Finished logic for insert method after removing the spinner for book condition.
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: I realized that implementing the book contiditions required a better db design, one that is a bit out of my grasp at the moment. In order to get the app done, I chose to stick to requirements and not implement the book condition spinner. Hopefully once I have completed the MVP, I can go back and enhance the app.
+
 ### Day 38: September 21, 2018
 
 **Today's Progress**: Today I defined the spinner layout and logic to setup the options for book conditio.
