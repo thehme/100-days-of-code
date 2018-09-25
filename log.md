@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 41: September 24, 2018
+
+**Today's Progress**: Started to work on adding on-click event to button in list item of ListView. I think I need to implement an update method, so I started to look into how this can be done.
+
+**Thoughts**: I got all the data I need to start implementing the update method tomorrow. 
+
 ### Day 40: September 23, 2018
 
 **Today's Progress**: Today I had little time to code, but I started to look into adding logic to my sale button. I realize I needed an onClick button, so this is my next step.
