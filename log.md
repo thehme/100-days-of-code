@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 42: September 25, 2018
+
+**Today's Progress**: Started to work on validation method, which is needed for the insert method to be fully implemented.
+
+**Thoughts**: I need to make sure the validation is done before inserting into db, so I can then work on the update and potentionally delete methods.
+
+https://github.com/thehme/StoreInventoryApp
+
 ### Day 41: September 24, 2018
 
 **Today's Progress**: Started to work on adding on-click event to button in list item of ListView. I think I need to implement an update method, so I started to look into how this can be done.
