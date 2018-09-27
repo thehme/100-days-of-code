@@ -1,5 +1,15 @@
 100 Days Of Code - Log
 
+### Day 43: September 26, 2018
+
+**Today's Progress**: I finished implemention an inputs validation method and enabled the back icon click, cancel view, and started to work on my update method. I see an error now, so I nee dot check what this is about
+
+error: method initLoader in class LoaderManager cannot be applied to given types
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: I had not implemented the onLoadFinished and onLoaderRese and I thought the error was due to this, so now that they are implemented, I am not sure what to try next, but I will fix this tomorrow.
+
 ### Day 42: September 25, 2018
 
 **Today's Progress**: Started to work on validation method, which is needed for the insert method to be fully implemented.
