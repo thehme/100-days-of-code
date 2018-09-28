@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 44: September 27, 2018
+
+**Today's Progress**: Today I fixed some issues with the insert method, added a validation method, also worked on the update method.
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: I have to create a validation method to validate the input fields before updating the book data. Once that is done, I have to work on the sale button to decrement the book's quantity in the db.
+
 ### Day 43: September 26, 2018
 
 **Today's Progress**: I finished implemention an inputs validation method and enabled the back icon click, cancel view, and started to work on my update method. I see an error now, so I nee dot check what this is about
