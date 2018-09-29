@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 45: September 28, 2018
+
+**Today's Progress**: Today I worked on implementing the logic for deleting a book item from my inventory app.
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: I realized I am already using a validation method to update, so I did not have to do more than cleanup. Tomorrow I will continue to work on the delete method.
+
 ### Day 44: September 27, 2018
 
 **Today's Progress**: Today I fixed some issues with the insert method, added a validation method, also worked on the update method.
