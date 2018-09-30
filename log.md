@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 46: September 29, 2018
+
+**Today's Progress**: Today I implemeted the delete method which allows the user to delete a book entry from the editor activity.
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: Currently I have a method to insert dummy data, so I need to change this to only insert if the book does not exist, otherwise, increment the count of the existing book. I also have to add logic to the list item button, so I will tackle the sale button first.
+
 ### Day 45: September 28, 2018
 
 **Today's Progress**: Today I worked on implementing the logic for deleting a book item from my inventory app.
