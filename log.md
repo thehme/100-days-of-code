@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 47: September 30, 2018
+
+**Today's Progress**: Started to work on the sale button for the list item view. 
+
+https://github.com/thehme/StoreInventoryApp
+
+**Today's Progress**: Inititally I had added the button's onClick method as a private method and this was causing the app to crash when I clicked it, saying that it could not be found. Now that I have it defined as public, it seems to be called when the button is clicked. I now just need to determine which book was clicked and decrement the quantity or delete if the quantity is zero.
+
 ### Day 46: September 29, 2018
 
 **Today's Progress**: Today I implemeted the delete method which allows the user to delete a book entry from the editor activity.
