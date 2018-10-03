@@ -1,5 +1,21 @@
 100 Days Of Code - Log
 
+### Day 49: October 2, 2018
+
+**Today's Progress**: Today I started to implement the logic of the sale button.
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: For some reason the wrong list item quantity is being updated, so I need to look into this. 
+
+### Day 48: October 1, 2018
+
+**Today's Progress**: I was getting an error "Attempt to invoke virtual method" when printing a log message after clicking a button in the listView. I had added a new method to content adaptor and had to move to the bindView method instead. Once I moved the method, I was able to print the log message as I expected.
+
+ https://github.com/thehme/StoreInventoryApp
+
+ **Thoughsts**: Now that the printing of the message occurs when the sale button is selected, I can go ahead and implement the logic of the button, so it can decrease the value of the book's quatity by 1 when clicked.
+
 ### Day 47: September 30, 2018
 
 **Today's Progress**: Started to work on the sale button for the list item view. 
