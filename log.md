@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 50: October 3, 2018
+
+**Today's Progress**: Today I fixed an issue with an on-click event implementation within the bindView of the listView adaptor. It was updating the wrong listView item or not updating anything at all. 
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: Since I could not access non final variables within the on-click event, and since I could not update a final variable, I moved the declations of content values outside of the on-click event, added the original quantity value to it, and then within the click event, I retreived the value, updated it, and then processed to do the update. Next I have to change how the Editor View allows a user to increase/decrease the book quantity when editing.
+
 ### Day 49: October 2, 2018
 
 **Today's Progress**: Today I started to implement the logic of the sale button.
