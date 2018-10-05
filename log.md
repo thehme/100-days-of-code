@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 51: October 4, 2018
+
+**Today's Progress**: Today I started changing the layout of my app to include buttons for incrementing or decreasing the book's quantity. 
+
+https://github.com/thehme/StoreInventoryApp/tree/bc-editor-quantity-buttons
+
+**Thoughts**: I have to polish the look a bit more, substitute the EditText with a static view and work on the logic to make these buttons work when clicked.
+
 ### Day 50: October 3, 2018
 
 **Today's Progress**: Today I fixed an issue with an on-click event implementation within the bindView of the listView adaptor. It was updating the wrong listView item or not updating anything at all. 
