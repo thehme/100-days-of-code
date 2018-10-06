@@ -1,5 +1,15 @@
 100 Days Of Code - Log
 
+### Day 52: October 5, 2018
+
+**Today's Progress**: I am working on implementing the logic for the increment and decrement buttons for the book quantity field in the editor activity.
+
+https://github.com/thehme/StoreInventoryApp/tree/bc-editor-quantity-buttons
+
+**Thoughts**: I am getting the following error, but I am coming down with something, so I am stopping now and will analyze more later.
+
+java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.android.storeinventoryapp/com.example.android.storeinventoryapp.EditorActivity}: java.lang.NumberFormatException: For input string: ""
+
 ### Day 51: October 4, 2018
 
 **Today's Progress**: Today I started changing the layout of my app to include buttons for incrementing or decreasing the book's quantity. 
