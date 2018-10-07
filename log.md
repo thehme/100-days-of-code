@@ -1,5 +1,11 @@
 100 Days Of Code - Log
 
+### Day 53: October 6, 2018
+
+**Today's Progress**: Today I finished implementing the increase and decrease buttons for the book's quantity in the Editior view. I also added a button to the layout that will allow the use to re-order more books, but calling the supplier's phone number.
+
+**Thoughts**: Need to get client's phone number and then use that to create an intent for ordering more books via a phone call.
+
 ### Day 52: October 5, 2018
 
 **Today's Progress**: I am working on implementing the logic for the increment and decrement buttons for the book quantity field in the editor activity.
