@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 54: October 7, 2018
+
+**Today's Progress**: Today I finished implementing the re-order button by creating an intent to make a phone call to the supplier of the book.
+
+https://github.com/thehme/StoreInventoryApp
+
+**Thoughts**: I went through the requirements specs and found I was missing toast during the validation process, so I had to add those.
+
 ### Day 53: October 6, 2018
 
 **Today's Progress**: Today I finished implementing the increase and decrease buttons for the book's quantity in the Editior view. I also added a button to the layout that will allow the use to re-order more books, but calling the supplier's phone number.
