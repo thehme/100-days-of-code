@@ -1,5 +1,13 @@
 100 Days Of Code - Log
 
+### Day 55: October 8, 2018
+
+**Today's Progress**: Today I fixed issues found during the review on my app, such as not validating the supplier info and missing the empty view screen. Also, it seems the code logic was not allowing a book to be saved when the price was an integer value.
+
+https://github.com/thehme/100-days-of-code
+
+**Thoughts**: I expected to be done with the project, but after the review, I realized that I was testing working cases and forgot to test edge cases.
+
 ### Day 54: October 7, 2018
 
 **Today's Progress**: Today I finished implementing the re-order button by creating an intent to make a phone call to the supplier of the book.
